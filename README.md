@@ -1,5 +1,6 @@
 # CursoReactJS
 <!--Formato de descripción de repositorios-->
+Por ser escrito.
 <!----Notas---->
 <!----Separador de las notas---->
 <!----Directorio con descripción de los programas---->
