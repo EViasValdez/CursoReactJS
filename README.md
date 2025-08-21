@@ -1,6 +1,6 @@
 # CursoReactJS
 
-Por ser escrito.
+Informacion por ser escrita.
 
 <!----Notas---->
 <!----Separador de las notas---->
