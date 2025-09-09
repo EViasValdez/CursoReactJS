@@ -1,4 +1,4 @@
-# CursoReactJS
+# Curso de React JS
 
 Informacion por ser escrita.
 
