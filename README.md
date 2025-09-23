@@ -1,11 +1,9 @@
 # Curso de React JS
 
-Informacion por ser escrita.
-
 <!----Notas---->
 **Notas:**
 
-**- Aun por ser puestas.**
+**- Aun por ser colocados.**
 <!----Separador de las notas---->
 
 <!----Directorio con descripción de los programas---->
