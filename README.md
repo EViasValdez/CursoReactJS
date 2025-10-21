@@ -8,11 +8,11 @@
 
 <!----Directorio con descripción de los programas---->
 ###### Programa - 00/00/00
-Descripcion.
+Descripción.
 
 <!----Separador---->
 
 ###### Programa - 00/00/00
-Descripcion.
+Descripción.
 
 <!----Separador del directorio con descripción de los programas---->
