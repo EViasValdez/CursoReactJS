@@ -1,4 +1,4 @@
-# Curso de React JS
+# Curso de ReactJS
 
 <!----Notas---->
 **Notas:**
