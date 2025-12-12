@@ -3,7 +3,7 @@
 <!----Notas---->
 **Notas:**
 
-**- Todavía no están escritos.**
+**- Todavía sin escribirlas.**
 <!----Separador de las notas---->
 
 <!----Directorio con descripción de los programas---->
