@@ -9,11 +9,11 @@
 <!----Directorio con descripción de los programas---->
 
 ###### Programa - 00/00/00
-Descripción.
+Descripción por ser escrita.
 
 <!----Separador---->
 
 ###### Programa - 00/00/00
-Descripción.
+Descripción por ser escrita.
 
 <!----Separador del directorio con descripción de los programas---->
