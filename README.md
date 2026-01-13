@@ -1,9 +1,13 @@
 # Curso de ReactJS
 
+<!----Descripción---->
+Descripción todavía por ser escrita.
+<!----Separador de la descripción---->
+
 <!----Notas---->
 **Notas:**
 
-**- Todavía en planeacion.**
+**- Todavía en planeación.**
 <!----Separador de las notas---->
 
 <!----Directorio con descripción de los programas---->
