@@ -7,7 +7,7 @@ Descripción todavía por ser escrita.
 <!----Notas---->
 **Notas:**
 
-**- Todavía en planeación.**
+**- Todavía en por ser escritas.**
 <!----Separador de las notas---->
 
 <!----Directorio con descripción de los programas---->
