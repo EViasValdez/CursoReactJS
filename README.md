@@ -1,7 +1,7 @@
 # Curso de ReactJS
 
 <!----Descripción---->
-Descripción todavía por ser escrita.
+Descripción del repositorio todavía por ser escrita.
 <!----Separador de la descripción---->
 
 <!----Notas---->
