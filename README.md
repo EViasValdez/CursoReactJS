@@ -6,7 +6,6 @@ Descripción del repositorio todavía por ser escrita.
 
 <!----Notas---->
 **Notas:**
-
 **- Todavía por ser escritas.**
 <!----Separador de las notas---->
 
