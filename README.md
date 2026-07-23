@@ -1,7 +1,7 @@
 # Curso de ReactJS
 
 <!----Descripción---->
-Descripción del repositorio todavía por ser escrita.
+Este repositorio recopila dos proyectos que hice para un curso de ReactJS.
 <!----Separador de la descripción---->
 
 <!----Notas---->
