@@ -6,7 +6,7 @@ Este repositorio recopila dos proyectos que hice para un curso de ReactJS.
 
 <!----Notas---->
 **Notas:**
-**- Sección todavía por ser escrita.**
+**- Parte todavía por ser escrita.**
 <!----Separador de las notas---->
 
 <!----Directorio con descripción de los programas---->
